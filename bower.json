@@ -1,7 +1,7 @@
 {
   "name": "netCore-angular",
   "description": "integrating .net core with angular",
-  "version": "1.0",
+  "version": "1.4",
   "main": [
     "js/netcore-angular.js"
   ],
